@@ -12,7 +12,7 @@
 
 [![Email](https://img.shields.io/badge/Email-%40osvworks@gmail.com%20-blue)](mailto:osvworks@gmail.com?)
 
-[![Twitter: ostrikov_serg](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fmobile.twitter.com%2Fostrikov_serg)]
+[![Twitter: ostrikov_serg](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fmobile.twitter.com%2Fostrikov_serg)](@ostrikov_serg)
 
 <!--
 **gospodi-dev/gospodi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
