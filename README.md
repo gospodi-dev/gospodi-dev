@@ -2,7 +2,7 @@
 
 ### I'm a iOS developer and project manager.
 
-🌱  I’m currently sharpening my iOS development skills
+🌱  I’m currently sharpening my iOS development skills. My blog [SWIFT APPS](https://swiftapps.ru)
  
 🔭  My goal is develop mobile iOS apps professionally
 
