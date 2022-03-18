@@ -1,4 +1,4 @@
-## Hi there, I'm Serg 👋
+## Hi there, I'm Gospodi 👋
 
 ### I'm a iOS developer and project manager.
 
