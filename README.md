@@ -1,18 +1,16 @@
 ## Hi there, I'm Gospodi 👋
 
-### I'm a iOS developer and project manager.
+### I'm a iOS developer
 
 🌱  I’m currently sharpening my iOS development skills. My blog [SWIFT APPS](https://swiftapps.ru)
  
 🔭  My goal is develop mobile iOS apps professionally
 
-⚡ My interests: Mobile app programming, Hiking, AR / VR
+⚡ My interests: Mobile app programming (Swift + Dart), Hiking, AR / VR
  
 📫  Feel free to reach me:
 
-[![Email](https://img.shields.io/badge/Email-%40osvworks@gmail.com%20-blue)](mailto:osvworks@gmail.com?)
-
-[![Twitter: ostrikov_serg](https://img.shields.io/twitter/follow/ostrikov_serg?style=social)](https://twitter.com/ostrikov_serg)
+[![Email](https://img.shields.io/badge/Email-%40osvworks@gmail.com%20-blue)](mailto:gospodijazzet@gmail.com?)
 
 <!--
 **gospodi-dev/gospodi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
