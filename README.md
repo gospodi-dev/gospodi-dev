@@ -6,7 +6,7 @@
  
 🔭  My goal is develop mobile iOS apps professionally
 
-⚡ My interests: Mobile app programming (Swift + Dart), Hiking, AR / VR
+⚡ My interests: Mobile app programming (Swift + Dart), AR, hiking 
  
 📫  Feel free to reach me:
 
