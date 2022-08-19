@@ -2,7 +2,7 @@
 
 ### I'm a iOS developer
 
-🌱  I’m currently sharpening my iOS development skills. My blog [SWIFT APPS](https://swiftapps.ru)
+🌱  I’m currently sharpening my iOS development skills.
  
 🔭  My goal is develop mobile iOS apps professionally
 
@@ -14,15 +14,4 @@
 
 <!--
 **gospodi-dev/gospodi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate with other
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
