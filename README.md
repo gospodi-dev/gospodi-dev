@@ -1,12 +1,6 @@
 ## Hi there, I'm Gospodi 👋
 
-### I'm a iOS developer
-
-🌱  I’m currently sharpening my iOS development skills.
- 
-🔭  My goal is develop mobile iOS apps professionally
-
-⚡ My interests: Mobile app programming (Swift + Dart), AR, hiking 
+⚡ My interests: Vue.JS, Mobile app programming, AR, hiking 
  
 📫  Feel free to reach me:
 
