@@ -1,6 +1,6 @@
 ## Hi there, I'm Gospodi 👋
 
-⚡ My interests: Python, Django^ Mobile app programming and hiking 
+⚡ My interests: Python, Django, Mobile app programming and hiking 
  
 📫  Feel free to reach me:
 
